@@ -12,7 +12,7 @@ I build **AI-powered applications** — combining LLMs and machine learning with
 **[AI Interview Assistant](https://github.com/bahadurakmal1620-prog/ai-interview-assistant)** — A full-stack app that conducts mock interviews, evaluates answers with AI, and generates personalized learning plans. Built end-to-end: FastAPI backend, Next.js frontend, Gemini API integration.
 
 📫 **Let's work together:**
-- Email: your-email@example.com
-- LinkedIn: [your LinkedIn URL]
+- Email: bahadur.akmal.16.20@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bahadur-akmal-a87148309?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Open to freelance projects involving AI/ML development, full-stack web apps (.NET or Python/JS), and automation tools.
