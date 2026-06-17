@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Bahadur 👋
 
-<!--
-**bahadurakmal1620-prog/bahadurakmal1620-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI-powered applications** — combining LLMs and machine learning with full-stack development to create tools that solve real problems.
 
-Here are some ideas to get you started:
+🔧 **What I work with:**
+- **AI/ML:** Training and deploying machine learning models, LLM integration (Gemini, OpenAI)
+- **Backend:** Python, FastAPI, .NET
+- **Frontend:** Next.js, React, TypeScript
+- **Tools:** Git/GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Featured Project:**
+**[AI Interview Assistant](https://github.com/bahadurakmal1620-prog/ai-interview-assistant)** — A full-stack app that conducts mock interviews, evaluates answers with AI, and generates personalized learning plans. Built end-to-end: FastAPI backend, Next.js frontend, Gemini API integration.
+
+📫 **Let's work together:**
+- Email: your-email@example.com
+- LinkedIn: [your LinkedIn URL]
+
+Open to freelance projects involving AI/ML development, full-stack web apps (.NET or Python/JS), and automation tools.
